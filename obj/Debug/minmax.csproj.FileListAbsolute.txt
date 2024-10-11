@@ -1,0 +1,7 @@
+C:\Users\Gyurcsaklj\source\repos\minmax\obj\Debug\minmax.csproj.AssemblyReference.cache
+C:\Users\Gyurcsaklj\source\repos\minmax\obj\Debug\minmax.csproj.CoreCompileInputs.cache
+C:\Users\Gyurcsaklj\source\repos\minmax\bin\Debug\minmax.exe.config
+C:\Users\Gyurcsaklj\source\repos\minmax\bin\Debug\minmax.exe
+C:\Users\Gyurcsaklj\source\repos\minmax\bin\Debug\minmax.pdb
+C:\Users\Gyurcsaklj\source\repos\minmax\obj\Debug\minmax.exe
+C:\Users\Gyurcsaklj\source\repos\minmax\obj\Debug\minmax.pdb
